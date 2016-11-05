@@ -1,0 +1,178 @@
+Name : Insert registration credential
+Actors : Unregistered User
+Entry conditions :  
+ - The user selects to register himself into the system from the main page
+Flow of events : 
+ - The user inserts his credentials in the featured form.                                              
+   His credentials include:
+	• Name
+	• Surname
+	• Birth date
+	• Username
+	• E-Mail
+	• Driving license info
+	• method of payment
+ - The user clicks the registration button
+ - The user is successfully registered
+ - The system sends a welcome mail to the user that contains his password
+Exit conditions : 
+ - The user is redirected to the login page.
+Exceptions : 
+ - Some of the information the user provided are incorrect. 
+   The user is not redirected but is notified of the error fields.
+
+   
+Name : Insert method of payment
+Actors : Unregistered user
+Entry conditions : No entry conditions
+Flow of events : 
+ - The user choose the method of payment between the available options and completes the related fields:
+ - If he chooses IBAN, the IBAN code
+ - If he chooses credit card inserts the follows fields:
+	• credit card number
+	• CVV
+	• holder name 
+	• expiration date
+Exit conditions : 
+ - The system displays a notification of the rightness of the information provided and enable the registration button.
+Exceptions : 
+ - The system displays an error notification associated to the incorrect fields and disable the registration button.
+
+ 
+Name : Insert login credentials
+Actors : User
+Entry conditions : 
+ - The user is registered and has received the password
+Flow of events : 
+ - The user opens the app for the first time or press the login button in the website
+ - The user inserts his credentials
+His credentials include:
+ - Username
+ - Password
+Exit conditions : 
+ - the user is redirected to the research page of the app where he can now book a car.
+Exceptions : 
+ - Some of the information the user provided are incorrect. 
+   The user is not redirected but is notified of the error fields.
+
+   
+Name : See own account information
+Actors : User
+Entry conditions :
+ - The user is successfully logged
+Flow of events : 
+ - The user clicks on the account button of the app
+ - The user sees his information and eventually edits them
+Exit conditions : 
+ - the user successfully goes on another page.
+Exceptions : there are no exceptions
+
+
+Name : Find available car
+Actors : User 
+Entry conditions : 
+ - the user is successfully logged
+Flow of events : 
+ - the user goes into the research section
+ - the system shows the available cars near his current position
+ - If the user insets a different position or place, then the system displays the available cars near that position
+Exit conditions :
+ - the user changes page 
+ - the user selects an available car from the system displayed options
+ - the user press "book" button
+ - the user press "map" button
+Exceptions :
+ - the GPS is not activated: The system doesn't display any car but an option link that redirect the user to the device settings in order to activate the GPS
+ - the user inserts an unrecognized position or place. The system displays a message that no available cars are found.
+
+
+Name : Book car 
+Actors : User
+Entry conditions : 
+ - the user selects an option from the research page
+Flow of events : 
+ - The user sees the information related to the car
+ - The user can eventually activate the money saving option
+ - The user clicks on the book button
+ - The system check the availability of the method of payment
+ - The system checks for previous not yet payed trip.
+Exit conditions : 
+ - The system notifies the user of the successful booking, 
+   starts 1 hour countdown visible on the app, 
+   redirects the user to the "auto" page where he can see the vehicle information.
+Exceptions : 
+ - The user inserts incorrect information. The system notifies the user about the incorrect fields.
+ - There's a pending payment related to a previous trip yet to be payed. 
+   The system redirects the user into the payment details section.
+
+ 
+Name : Unlock car
+Actors : User
+Entry conditions : 
+ - the user
+ has booked the car less than an hour ago
+ - The user has parked the car and less than the time limit of the car in parking state has passed
+Flow of events : 
+ - The user access to the system
+ - the user goes on "auto" page
+ - The system checks the user position by GPS and enable the unlock button if the user is near the car.
+ - The user clicks on the unlock button
+Exit conditions :
+ - The user can now use the car.
+Exceptions : 
+ - the GPS is not working. 
+   The system notifies the user and redirects him to the device settings in order to activate it. 
+ - The internet connection is not available. 
+   The system notifies the user to activate the Bluetooth and to put the device near the car in order to unlock it.
+ - The user cannot unlock the car using his device. 
+   The user could ask for support to the authorized personnel.
+
+ 
+Name: Pay car
+Actors: User
+Entry conditions: The user has to pay the last ride but an error occurs during the autonomous checkout
+Flow of events:
+ - The user goes into the payment section 
+ - The user clicks on "Pay" button
+ - The system checks that the method of payment is correct
+ - The system detract the amount of money of the last ride
+Exit conditions: the system notifies the user of correctness of the transaction
+Exceptions: 
+ - The check of the method of payment fails: the system notifies the user about it and redirect him to the account settings
+ - The system cannot detract the amount of requested: it notifies this to the user suggesting to controll the residual
+
+ 
+Name : contact assistance during trip
+Actors : User
+Entry conditions : 
+ - the user is using the car
+Flow of events:
+ - the user selects the assistance from the display in the car
+ - the system notifies the personnel of the call
+Exit conditions : 
+ - the user is contacted by the personnel immediately
+Exceptions :
+ - The internet connection or the telephone network does not reach the car. 
+   The personnel will contact the user as soon as an internet or telephone connection will be available.
+
+   
+Name : Activate money saving option
+Actors: User
+Entry conditions: 
+ - the user has booked a car
+Flow of events: 
+ - the user access to the system
+ - the user selects the money saving option from the "auto" page
+ - the system shows a form where the user choose the final destination point
+ - the system provides information about the station nearer to the final destination where to leave the car to get a discount
+Exit conditions : 
+ - deactivate the money saving option 
+ - drive to the station provided by the system.
+ - The user Park in a place not indicate from the money saving mode
+Exceptions:
+ - The internet connection is not available. 
+   The system shows a connection error and allows the user to retry.
+ - the user inserts an unrecognized position or place. 
+   The system shows a "not found" error asking the user to check if the destination in correct.
+ - The user parked in the right place but doesn't receive a discount. 
+   The user could contact the personnel for more informations
