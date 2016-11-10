@@ -639,7 +639,7 @@
 									"height": 72,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM RESERVE THE CAR",
+									"text": "SYSTEM RESERVES THE CAR",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -1230,7 +1230,7 @@
 									"height": 120,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM CHECKS IF USER PISCK UP THE CAR IN ONE HOUR",
+									"text": "SYSTEM CHECKS IF USER PICKS UP THE CAR IN ONE HOUR",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -2524,7 +2524,7 @@
 									"height": 96,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM CHARGE WITH BASIS TARIF",
+									"text": "SYSTEM CHARGES WITH BASIC TARIFF",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -3279,7 +3279,7 @@
 									"height": 72,
 									"autoResize": false,
 									"underline": false,
-									"text": "USER STOP ENGINE AND GET OUT OF CAR",
+									"text": "USER STOPS ENGINE AND GETS OUT OF CAR",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -3590,7 +3590,7 @@
 									"height": 96,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM CHECKS WHICH MODALITY THE USER HAS SELECTED BEFOR GET OUT OF THE CAR",
+									"text": "SYSTEM CHECKS WHICH MODALITY THE USER HAS SELECTED BEFORE GETTING OUT OF THE CAR",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -3925,7 +3925,7 @@
 									"height": 96,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM CONTINUE TO CHARGHE WITH BASIS TARIF",
+									"text": "SYSTEM CONTINUES TO CHARGHE WITH BASIC TARIFF",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -4199,9 +4199,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 120,
+							"left": 123,
 							"top": 2359,
-							"width": 241,
+							"width": 234,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 3.1415920581992687,
@@ -4347,8 +4347,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 1168,
-									"top": -2750,
+									"left": 1136,
+									"top": -2766,
 									"width": 0,
 									"height": 24,
 									"autoResize": false,
@@ -4371,13 +4371,13 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 1005,
-									"top": 1063,
+									"left": 989,
+									"top": 1055,
 									"width": 319,
 									"height": 72,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM LOCK THE CAR AND MAKE TOTAL COST OF BASIS TARIF",
+									"text": "SYSTEM LOCKS THE CAR AND MAKE TOTAL COST OF BASIC TARIFF",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -4396,8 +4396,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 1168,
-									"top": -2750,
+									"left": 1136,
+									"top": -2766,
 									"width": 265.16015625,
 									"height": 24,
 									"autoResize": false,
@@ -4421,8 +4421,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 1168,
-									"top": -2750,
+									"left": 1136,
+									"top": -2766,
 									"width": 0,
 									"height": 24,
 									"autoResize": false,
@@ -4440,8 +4440,8 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 1000,
-							"top": 1056,
+							"left": 984,
+							"top": 1048,
 							"width": 329,
 							"height": 84,
 							"autoResize": false,
@@ -4468,8 +4468,8 @@
 					"showShadow": true,
 					"containerChangeable": true,
 					"containerExtending": false,
-					"left": 1000,
-					"top": 1056,
+					"left": 984,
+					"top": 1048,
 					"width": 329,
 					"height": 108,
 					"autoResize": false,
@@ -4511,9 +4511,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 415,
+							"left": 418,
 							"top": 2355,
-							"width": 196,
+							"width": 191,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 2.0586326479533645,
@@ -4689,7 +4689,7 @@
 									"height": 96,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM CHECK IF THE USER COME BACK IN TIME",
+									"text": "SYSTEM CHECKS IF THE USER COMES BACK IN TIME",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -5305,7 +5305,7 @@
 									"height": 96,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM CHECK THE NUMBER OF PASSENGER IS MORE THEN 2",
+									"text": "SYSTEM CHECKS THE NUMBER OF PASSENGER IS MORE THEN 2",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -5440,7 +5440,7 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"left": 1165,
-							"top": 1162,
+							"top": 1158,
 							"width": 0,
 							"height": 13,
 							"autoResize": false,
@@ -5473,7 +5473,7 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"left": 1180,
-							"top": 1162,
+							"top": 1158,
 							"width": 0,
 							"height": 13,
 							"autoResize": false,
@@ -5506,7 +5506,7 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"left": 1136,
-							"top": 1163,
+							"top": 1159,
 							"width": 0,
 							"height": 13,
 							"autoResize": false,
@@ -5537,7 +5537,7 @@
 						"$ref": "AAAAAAFYK46MCFilrcY="
 					},
 					"lineStyle": 0,
-					"points": "1151:1163;1151:1176",
+					"points": "1151:1155;1151:1176",
 					"stereotypeDisplay": "label",
 					"showVisibility": true,
 					"showProperty": true,
@@ -5640,7 +5640,7 @@
 									"height": 72,
 									"autoResize": false,
 									"underline": false,
-									"text": "SUBTRACT 20% FROM THE TOTAL COST",
+									"text": "SUBTRACT 10% FROM THE TOTAL COST",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -7044,9 +7044,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 917,
+							"left": 918,
 							"top": 1511,
-							"width": 198,
+							"width": 196,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 4.455747512875369,
@@ -7187,7 +7187,7 @@
 							"containerExtending": false,
 							"left": 1200,
 							"top": 1511,
-							"width": 187,
+							"width": 186,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 0.8253764351854344,
@@ -7326,9 +7326,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 941,
+							"left": 943,
 							"top": 1585,
-							"width": 447,
+							"width": 443,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 0.5543076230724686,
@@ -7924,7 +7924,7 @@
 									"height": 72,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM CHECKS IF USER PLUGHED THE CAR",
+									"text": "SYSTEM CHECKS IF USER PLUGGED THE CAR",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -8393,9 +8393,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 981,
+							"left": 982,
 							"top": 1746,
-							"width": 137,
+							"width": 135,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 4.645820152892081,
@@ -8534,9 +8534,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 1187,
+							"left": 1188,
 							"top": 1739,
-							"width": 180,
+							"width": 178,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 1.1071483177941706,
@@ -9798,9 +9798,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 1416,
+							"left": 1417,
 							"top": 1885,
-							"width": 207,
+							"width": 204,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 1.646839444077049,
@@ -9939,9 +9939,9 @@
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 1152,
+							"left": 1153,
 							"top": 1838,
-							"width": 196,
+							"width": 194,
 							"height": 24,
 							"autoResize": false,
 							"alpha": 1.8610611010191136,
@@ -10732,7 +10732,7 @@
 									"height": 72,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM SUBTRACT 30% FROM THE TOTAL COST",
+									"text": "SYSTEM SUBTRACTS 30% FROM THE TOTAL COST",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -11044,7 +11044,7 @@
 									"height": 96,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM SUBTRACT THE TOTAL COST WITH ALL DISCOUNT AND CHARGE AND CHECKS IF THE BANK TRANSACTION WENT GOOD",
+									"text": "SYSTEM SUBTRACTS THE TOTAL COST WITH ALL DISCOUNTS AND CHARGE AND CHECKS IF THE BANK TRANSACTION WENT GOOD",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -11380,7 +11380,7 @@
 									"height": 96,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM SEND EMAIL WITH RECEIPT OF THE PAYMENT",
+									"text": "SYSTEM SENDS EMAIL WITH RECEIPT OF THE PAYMENT",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -11832,7 +11832,7 @@
 									"height": 144,
 									"autoResize": false,
 									"underline": false,
-									"text": "SYSTEM SEND AN EMAIL TO INFORM THE USER TO DO THE PAYMENT OF THE LAST TRIP BECAUSE HIS WAY OF AUTOMATIC PAYMENT DIDN'T WORK.",
+									"text": "SYSTEM SENDS AN EMAIL TO INFORM THE USER TO PAY THE LAST TRIP BECAUSE HIS WAY OF AUTOMATIC PAYMENT DIDN'T WORK.",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -12553,7 +12553,7 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"left": 1215,
-							"top": 2785,
+							"top": 2793,
 							"width": 0,
 							"height": 13,
 							"autoResize": false,
@@ -12586,7 +12586,7 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"left": 1215,
-							"top": 2800,
+							"top": 2808,
 							"width": 0,
 							"height": 13,
 							"autoResize": false,
@@ -12619,7 +12619,7 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"left": 1216,
-							"top": 2755,
+							"top": 2763,
 							"width": 0,
 							"height": 13,
 							"autoResize": false,
@@ -12650,7 +12650,7 @@
 						"$ref": "AAAAAAFYK6Wndl12M4A="
 					},
 					"lineStyle": 0,
-					"points": "1216:2739;1216:2776;1173:2776",
+					"points": "1216:2739;1216:2784;1173:2784",
 					"stereotypeDisplay": "label",
 					"showVisibility": true,
 					"showProperty": true,
@@ -12978,7 +12978,7 @@
 						"$ref": "AAAAAAFYK6y+R143ViA="
 					},
 					"lineStyle": 0,
-					"points": "482:2825;600:2825;600:1032;1152:1032;1152:1056",
+					"points": "482:2825;600:2825;600:1032;1152:1032;1152:1048",
 					"stereotypeDisplay": "label",
 					"showVisibility": true,
 					"showProperty": true,
@@ -14721,7 +14721,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM RESERVE THE CAR",
+			"name": "SYSTEM RESERVES THE CAR",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14733,7 +14733,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM CHECKS IF USER PISCK UP THE CAR IN ONE HOUR",
+			"name": "SYSTEM CHECKS IF USER PICK UP THE CAR IN ONE HOUR",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14811,7 +14811,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM CHARGE WITH BASIS TARIF",
+			"name": "SYSTEM CHARGES WITH BASIC TARIFF",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14832,7 +14832,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "USER STOP ENGINE AND GET OUT OF CAR",
+			"name": "USER STOPS ENGINE AND GETS OUT OF CAR",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14844,7 +14844,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM CHECKS WHICH MODALITY THE USER HAS SELECTED BEFOR GET OUT OF THE CAR",
+			"name": "SYSTEM CHECKS WHICH MODALITY THE USER HAS SELECTED BEFORE GETTING OUT OF THE CAR",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14865,7 +14865,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM CONTINUE TO CHARGHE WITH BASIS TARIF",
+			"name": "SYSTEM CONTINUES TO CHARGHE WITH BASIC TARIFF",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14877,7 +14877,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM LOCK THE CAR AND MAKE TOTAL COST OF BASIS TARIF",
+			"name": "SYSTEM LOCKS THE CAR AND MAKES TOTAL COST OF BASIC TARIFF",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14889,7 +14889,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM CHECK IF THE USER COME BACK IN TIME",
+			"name": "SYSTEM CHECKS IF THE USER COME BACK IN TIME",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14910,7 +14910,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM CHECK THE NUMBER OF PASSENGER IS MORE THEN 2",
+			"name": "SYSTEM CHECKS THE NUMBER OF PASSENGERS IS MORE THEN 2",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14931,7 +14931,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SUBTRACT 20% FROM THE TOTAL COST",
+			"name": "SUBTRACT 10% FROM THE TOTAL COST",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -14988,7 +14988,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM ADDS 30% AT THE TOTAL COST",
+			"name": "SYSTEM ADDS 30% TO THE TOTAL COST",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -15000,7 +15000,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM CHECKS IF USER PLUGHED THE CAR",
+			"name": "SYSTEM CHECKS IF USER PLUGGED THE CAR",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -15075,7 +15075,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM ADD 30% AT THE TOTAL COST",
+			"name": "SYSTEM ADD 30% TO THE TOTAL COST",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -15108,7 +15108,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM SUBTRACT 30% FROM THE TOTAL COST",
+			"name": "SYSTEM SUBTRACTS 30% FROM THE TOTAL COST",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -15120,7 +15120,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM SUBTRACT THE TOTAL COST WITH ALL DISCOUNT AND CHARGE AND CHECKS IF THE BANK TRANSACTION WENT GOOD",
+			"name": "SYSTEM SUBTRACTS THE TOTAL COST WITH ALL DISCOUNTS AND CHARGE AND CHECKS IF THE BANK TRANSACTION WENT GOOD",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -15141,7 +15141,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM SEND EMAIL WITH RECEIPT OF THE PAYMENT",
+			"name": "SYSTEM SENDS EMAIL WITH RECEIPT OF THE PAYMENT",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
@@ -15153,7 +15153,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFYK3uyuVSVRZ0="
 			},
-			"name": "SYSTEM SEND AN EMAIL TO INFORM THE USER TO DO THE PAYMENT OF THE LAST TRIP BECAUSE HIS WAY OF AUTOMATIC PAYMENT DIDN'T WORK.",
+			"name": "SYSTEM SENDS AN EMAIL TO INFORM THE USER TO PAY THE LAST TRIP BECAUSE HIS WAY OF AUTOMATIC PAYMENT DIDN'T WORK.",
 			"visibility": "public",
 			"kind": "opaque",
 			"isLocallyReentrant": false,
