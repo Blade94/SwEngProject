@@ -201,7 +201,7 @@
 									"height": 64,
 									"autoResize": false,
 									"underline": false,
-									"text": "CAR AVAILABLE LOCKED AND SEFE PARKED",
+									"text": "CAR AVAILABLE LOCKED AND SAFE PARKED",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5
 								},
@@ -5089,7 +5089,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFYK8K/2F+/XMQ="
 					},
-					"name": "CAR AVAILABLE LOCKED AND SEFE PARKED",
+					"name": "CAR AVAILABLE LOCKED AND SAFE PARKED",
 					"visibility": "public"
 				},
 				{
