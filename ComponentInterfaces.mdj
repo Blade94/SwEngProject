@@ -1506,7 +1506,7 @@
 											"height": 30,
 											"autoResize": false,
 											"underline": false,
-											"text": "               <<Interface>>            PaymentrManager",
+											"text": "               <<Interface>>            PaymentManager",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -4564,7 +4564,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "               <<Interface>>            PaymentrManager",
+					"name": "               <<Interface>>            PaymentManager",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,

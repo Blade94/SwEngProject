@@ -5,32 +5,11 @@
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"visible": true,
-					"defaultDiagram": true
-				}
-			],
-			"visibility": "public"
-		},
-		{
-			"_type": "UMLModel",
 			"_id": "AAAAAAFYsGfiPUprtXo=",
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Model1",
+			"name": "DeploymentDiagram",
 			"ownedElements": [
 				{
 					"_type": "UMLDeploymentDiagram",
@@ -129,11 +108,11 @@
 											"containerExtending": false,
 											"left": -816,
 											"top": 320,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -414,11 +393,11 @@
 											"containerExtending": false,
 											"left": -816,
 											"top": 320,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -699,11 +678,11 @@
 											"containerExtending": false,
 											"left": -816,
 											"top": 320,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -984,11 +963,11 @@
 											"containerExtending": false,
 											"left": 1088,
 											"top": 96,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -1248,7 +1227,7 @@
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "Embedded ...",
+											"text": "Embedded System",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -1269,11 +1248,11 @@
 											"containerExtending": false,
 											"left": 1056,
 											"top": 96,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -1554,11 +1533,11 @@
 											"containerExtending": false,
 											"left": 1056,
 											"top": 96,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -1839,11 +1818,11 @@
 											"containerExtending": false,
 											"left": -992,
 											"top": 64,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -2124,11 +2103,11 @@
 											"containerExtending": false,
 											"left": -1008,
 											"top": 64,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -2409,11 +2388,11 @@
 											"containerExtending": false,
 											"left": -1024,
 											"top": 80,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -2694,11 +2673,11 @@
 											"containerExtending": false,
 											"left": 112,
 											"top": 288,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -2979,11 +2958,11 @@
 											"containerExtending": false,
 											"left": 112,
 											"top": 256,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3243,7 +3222,7 @@
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": ".. SENSOR",
+											"text": "SENSOR",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3264,11 +3243,11 @@
 											"containerExtending": false,
 											"left": 128,
 											"top": 240,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3528,7 +3507,7 @@
 											"height": 32,
 											"autoResize": false,
 											"underline": false,
-											"text": "third part System Computer",
+											"text": "third party System Computer",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3549,11 +3528,11 @@
 											"containerExtending": false,
 											"left": 16,
 											"top": 16,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3813,7 +3792,7 @@
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": ".....",
+											"text": "Server ...",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3834,11 +3813,11 @@
 											"containerExtending": false,
 											"left": -32,
 											"top": 16,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -4119,11 +4098,11 @@
 											"containerExtending": false,
 											"left": -80,
 											"top": -48,
-											"width": 126,
+											"width": 189,
 											"height": 16,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from Model1)",
+											"text": "(from DeploymentDiagram)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -4613,7 +4592,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFYsGfiPUprtXo="
 					},
-					"name": "Embedded ...",
+					"name": "Embedded System",
 					"stereotype": "platform",
 					"visibility": "public",
 					"isAbstract": false,
@@ -4704,7 +4683,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFYsGfiPUprtXo="
 					},
-					"name": ".. SENSOR",
+					"name": "SENSOR",
 					"stereotype": "device",
 					"visibility": "public",
 					"isAbstract": false,
@@ -4717,7 +4696,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFYsGfiPUprtXo="
 					},
-					"name": "third part System Computer",
+					"name": "third party System Computer",
 					"stereotype": "device",
 					"visibility": "public",
 					"isAbstract": false,
@@ -4730,7 +4709,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFYsGfiPUprtXo="
 					},
-					"name": ".....",
+					"name": "Server ...",
 					"stereotype": "platform",
 					"visibility": "public",
 					"isAbstract": false,
