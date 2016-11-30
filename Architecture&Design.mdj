@@ -12752,6 +12752,146 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFYsFj+id+j9ww="
 							}
+						},
+						{
+							"_type": "UMLDependencyView",
+							"_id": "AAAAAAFYtbYFODeev2s=",
+							"_parent": {
+								"$ref": "AAAAAAFYsFj+id+lncA="
+							},
+							"model": {
+								"$ref": "AAAAAAFYtbYFNzecc28="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFYtbYFOTefZu8=",
+									"_parent": {
+										"$ref": "AAAAAAFYtbYFODeev2s="
+									},
+									"model": {
+										"$ref": "AAAAAAFYtbYFNzecc28="
+									},
+									"visible": false,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 220,
+									"top": 230,
+									"width": 0,
+									"height": 13,
+									"autoResize": false,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAFYtbYFODeev2s="
+									},
+									"edgePosition": 1,
+									"underline": false,
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFYtbYFOTegfu4=",
+									"_parent": {
+										"$ref": "AAAAAAFYtbYFODeev2s="
+									},
+									"model": {
+										"$ref": "AAAAAAFYtbYFNzecc28="
+									},
+									"visible": null,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 223,
+									"top": 215,
+									"width": 0,
+									"height": 13,
+									"autoResize": false,
+									"alpha": 1.5707963267948966,
+									"distance": 30,
+									"hostEdge": {
+										"$ref": "AAAAAAFYtbYFODeev2s="
+									},
+									"edgePosition": 1,
+									"underline": false,
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFYtbYFOTehNuE=",
+									"_parent": {
+										"$ref": "AAAAAAFYtbYFODeev2s="
+									},
+									"model": {
+										"$ref": "AAAAAAFYtbYFNzecc28="
+									},
+									"visible": false,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 215,
+									"top": 259,
+									"width": 0,
+									"height": 13,
+									"autoResize": false,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAFYtbYFODeev2s="
+									},
+									"edgePosition": 1,
+									"underline": false,
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								}
+							],
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFYsFj+et8kY70="
+							},
+							"tail": {
+								"$ref": "AAAAAAFYsFj+et7KnPc="
+							},
+							"lineStyle": 1,
+							"points": "165:243;271.7099609375:260.25444878472223",
+							"stereotypeDisplay": "label",
+							"showVisibility": true,
+							"showProperty": true,
+							"nameLabel": {
+								"$ref": "AAAAAAFYtbYFOTefZu8="
+							},
+							"stereotypeLabel": {
+								"$ref": "AAAAAAFYtbYFOTegfu4="
+							},
+							"propertyLabel": {
+								"$ref": "AAAAAAFYtbYFOTehNuE="
+							}
 						}
 					]
 				},
@@ -12903,6 +13043,22 @@
 						"$ref": "AAAAAAFYsFj+id/QDr4="
 					},
 					"name": "Positioning",
+					"ownedElements": [
+						{
+							"_type": "UMLDependency",
+							"_id": "AAAAAAFYtbYFNzecc28=",
+							"_parent": {
+								"$ref": "AAAAAAFYsFj+id+wrZI="
+							},
+							"source": {
+								"$ref": "AAAAAAFYsFj+id+wrZI="
+							},
+							"target": {
+								"$ref": "AAAAAAFYsFj+id/JDnA="
+							},
+							"visibility": "public"
+						}
+					],
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
